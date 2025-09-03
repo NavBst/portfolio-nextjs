@@ -10,7 +10,7 @@ export function Approach() {
       <h1 className="text-3xl font-bold text-center mt-10">
         My <span className="text-purple-200">Approach</span>
       </h1>
-      <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4 mx-auto">
+      <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-10 mx-auto">
         <Card 
           title="Planing & Strategy"
           description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
